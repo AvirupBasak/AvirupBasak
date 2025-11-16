@@ -37,7 +37,7 @@ I’m looking to collaborate on:
 ---
 
 ### 📫 Connect with Me
-- **Email**: avirupbasak6@gmail.com  
+- **Email**: avirupbasak98@gmail.com  
 - **GitHub**: [AvirupBasak](https://github.com/AvirupBasak)  
 - **Instagram**: [_avirup_._](https://www.instagram.com/_avirup_._/)
 
