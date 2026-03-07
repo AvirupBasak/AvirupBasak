@@ -17,7 +17,9 @@ With a strong interest in artificial intelligence and software development, I ai
 - **Object-Oriented Programming (OOP)** in Python  
 - **Data Structures**: Enhancing my knowledge of linked lists, trees, and graphs  
 - **Database Management Systems (DBMS)** and Operating Systems (OS)
-- **JAVA WITH OOPS CONCEPTS** and PHP 
+- **ADVANCE JAVA WITH OOPS CONCEPTS** and PHP 
+- **NETWORKING**
+- **SHELL PROGRAMMING/UNIX**
 
 ---
 
