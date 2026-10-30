@@ -1,4 +1,4 @@
-# Hi, I'm Avirup Basak! 👋
+# Hi, I'm Avirup! 👋
 
 I am a passionate and aspiring tech enthusiast pursuing a Bachelor of Computer Applications (BCA). 
 With a strong interest in artificial intelligence and software development, I aim to build impactful projects and contribute to cutting-edge innovations.
