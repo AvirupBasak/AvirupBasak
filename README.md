@@ -13,20 +13,10 @@ With a strong interest in artificial intelligence and software development, I ai
 
 ---
 
-### 🌱 Currently Learning
-- **Object-Oriented Programming (OOP)** in Python  
-- **Data Structures**: Enhancing my knowledge of linked lists, trees, and graphs  
-- **Database Management Systems (DBMS)** and Operating Systems (OS)
-- **ADVANCE JAVA WITH OOPS CONCEPTS** and PHP 
-- **NETWORKING**
-- **SHELL PROGRAMMING/UNIX**
-
----
-
 ### 💻 Skills
-- **Programming Languages**: Python, C, HTML, CSS, JavaScript  
-- **Development Tools**: Git, GitHub, VS Code  
-- **Special Interests**: AI, linked lists, and system design principles
+- **Programming Languages**: Python, C, HTML, CSS, JavaScript, Java
+- **Development Tools**: Git, GitHub, VS Code
+- **Special Interests**: AI, linked lists, and system design principles, networking, cyber security
 
 ---
 
@@ -47,11 +37,6 @@ I’m looking to collaborate on:
 
 ### 😄 Pronouns
 - He/Him  
-
----
-
-### ⚡ Fun Fact
-I aspire to work at OpenAI someday, contributing to transformative AI innovations and making a meaningful impact in the tech industry.
 
 ---
 
